@@ -19,10 +19,13 @@
   "homepage": "https://github.com/iamshaunjp/object-oriented-js#readme",
   "dependencies": {
     "express": "^4.18.1",
+    "mathjs": "^11.0.1",
     "puppeteer": "^16.1.0",
     "puppeteer-core": "^16.1.0",
     "puppeteer-extra": "^3.3.4",
     "puppeteer-extra-plugin-stealth": "^2.11.1",
+    "range": "^0.0.3",
+    "wait": "^0.4.2",
     "xoauth2": "^1.2.0"
   },
   "devDependencies": {
